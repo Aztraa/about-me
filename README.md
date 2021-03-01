@@ -11,7 +11,7 @@ Hello I am Aztraa, student and passionate about cybersecurity and programming
 - C / C#
 - Assembly language
 - Batch language / Visual Basic
-- Lisp / Perl
+- Lisp / Perl / Yaml
 
 # Operating system :
 
